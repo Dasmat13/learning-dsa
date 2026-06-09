@@ -8,7 +8,8 @@
 
 | Stat | Value |
 |------|-------|
-| Total files annotated | 0 |
+| Total files annotated | 38 |
+| C++ files | 38 |
 
 ---
 
@@ -16,6 +17,44 @@
 
 | Note File | Source File | Language |
 |-----------|-------------|----------|
+| [demo.md](./demo.md) | `demo.cpp` | C++ |
+| [hashing_q1_count_occurrences_of_number.md](./hashing_q1_count_occurrences_of_number.md) | `hashing/q1_count_occurrences_of_number.cpp` | C++ |
+| [hashing_q2_frequency_using_hash_array.md](./hashing_q2_frequency_using_hash_array.md) | `hashing/q2_frequency_using_hash_array.cpp` | C++ |
+| [hashing_q3_character_frequency_in_string.md](./hashing_q3_character_frequency_in_string.md) | `hashing/q3_character_frequency_in_string.cpp` | C++ |
+| [hashing_q4_character_frequency_using_ascii_hash.md](./hashing_q4_character_frequency_using_ascii_hash.md) | `hashing/q4_character_frequency_using_ascii_hash.cpp` | C++ |
+| [hashing_q5_frequency_using_map.md](./hashing_q5_frequency_using_map.md) | `hashing/q5_frequency_using_map.cpp` | C++ |
+| [hashing_q6_character_frequency_using_map.md](./hashing_q6_character_frequency_using_map.md) | `hashing/q6_character_frequency_using_map.cpp` | C++ |
+| [hashing_q7_highest_frequency_element.md](./hashing_q7_highest_frequency_element.md) | `hashing/q7_highest_frequency_element.cpp` | C++ |
+| [hashing_sorting_techniques_sorting-I_selection_sort.md](./hashing_sorting_techniques_sorting-I_selection_sort.md) | `hashing/sorting_techniques/sorting-I/selection_sort.cpp` | C++ |
+| [loops.md](./loops.md) | `loops.cpp` | C++ |
+| [maths.md](./maths.md) | `maths.cpp` | C++ |
+| [new.md](./new.md) | `new.cpp` | C++ |
+| [patterns.md](./patterns.md) | `patterns.cpp` | C++ |
+| [patterns_questions_q10_hourglass_star_pattern.md](./patterns_questions_q10_hourglass_star_pattern.md) | `patterns_questions/q10_hourglass_star_pattern.cpp` | C++ |
+| [patterns_questions_q12_number_mirror_triangle.md](./patterns_questions_q12_number_mirror_triangle.md) | `patterns_questions/q12_number_mirror_triangle.cpp` | C++ |
+| [patterns_questions_q13_sequential_number_triangle.md](./patterns_questions_q13_sequential_number_triangle.md) | `patterns_questions/q13_sequential_number_triangle.cpp` | C++ |
+| [patterns_questions_q14_alphabet_triangle.md](./patterns_questions_q14_alphabet_triangle.md) | `patterns_questions/q14_alphabet_triangle.cpp` | C++ |
+| [patterns_questions_q15_inverted_alphabet_triangle.md](./patterns_questions_q15_inverted_alphabet_triangle.md) | `patterns_questions/q15_inverted_alphabet_triangle.cpp` | C++ |
+| [patterns_questions_q16_same_char_repeated_per_row.md](./patterns_questions_q16_same_char_repeated_per_row.md) | `patterns_questions/q16_same_char_repeated_per_row.cpp` | C++ |
+| [patterns_questions_q17_palindrome_char_pyramid.md](./patterns_questions_q17_palindrome_char_pyramid.md) | `patterns_questions/q17_palindrome_char_pyramid.cpp` | C++ |
+| [patterns_questions_q1_square_star_pattern.md](./patterns_questions_q1_square_star_pattern.md) | `patterns_questions/q1_square_star_pattern.cpp` | C++ |
+| [patterns_questions_q2_right_triangle_stars.md](./patterns_questions_q2_right_triangle_stars.md) | `patterns_questions/q2_right_triangle_stars.cpp` | C++ |
+| [patterns_questions_q3_right_triangle_column_numbers.md](./patterns_questions_q3_right_triangle_column_numbers.md) | `patterns_questions/q3_right_triangle_column_numbers.cpp` | C++ |
+| [patterns_questions_q4_right_triangle_row_numbers.md](./patterns_questions_q4_right_triangle_row_numbers.md) | `patterns_questions/q4_right_triangle_row_numbers.cpp` | C++ |
+| [patterns_questions_q5_inverted_right_triangle_stars.md](./patterns_questions_q5_inverted_right_triangle_stars.md) | `patterns_questions/q5_inverted_right_triangle_stars.cpp` | C++ |
+| [patterns_questions_q6_inverted_right_triangle_numbers.md](./patterns_questions_q6_inverted_right_triangle_numbers.md) | `patterns_questions/q6_inverted_right_triangle_numbers.cpp` | C++ |
+| [patterns_questions_q7_pyramid_star_pattern.md](./patterns_questions_q7_pyramid_star_pattern.md) | `patterns_questions/q7_pyramid_star_pattern.cpp` | C++ |
+| [patterns_questions_q8_inverted_pyramid_star_pattern.md](./patterns_questions_q8_inverted_pyramid_star_pattern.md) | `patterns_questions/q8_inverted_pyramid_star_pattern.cpp` | C++ |
+| [patterns_questions_q9_diamond_star_pattern.md](./patterns_questions_q9_diamond_star_pattern.md) | `patterns_questions/q9_diamond_star_pattern.cpp` | C++ |
+| [raw-while-loop.md](./raw-while-loop.md) | `raw-while-loop.cpp` | C++ |
+| [recursions_basic.md](./recursions_basic.md) | `recursions/basic.cpp` | C++ |
+| [recursions_q10_reverse_array_one_pointer.md](./recursions_q10_reverse_array_one_pointer.md) | `recursions/q10_reverse_array_one_pointer.cpp` | C++ |
+| [recursions_q11_check_palindrome_string.md](./recursions_q11_check_palindrome_string.md) | `recursions/q11_check_palindrome_string.cpp` | C++ |
+| [recursions_q12_fibonacci_number.md](./recursions_q12_fibonacci_number.md) | `recursions/q12_fibonacci_number.cpp` | C++ |
+| [recursions_q1_print_name_n_times.md](./recursions_q1_print_name_n_times.md) | `recursions/q1_print_name_n_times.cpp` | C++ |
+| [recursions_q2_print_1_to_n.md](./recursions_q2_print_1_to_n.md) | `recursions/q2_print_1_to_n.cpp` | C++ |
+| [recursions_q3_print_1_to_n_reverse.md](./recursions_q3_print_1_to_n_reverse.md) | `recursions/q3_print_1_to_n_reverse.cpp` | C++ |
+| [recursions_q5_print_n_to_1_backtrack.md](./recursions_q5_print_n_to_1_backtrack.md) | `recursions/q5_print_n_to_1_backtrack.cpp` | C++ |
 
 ---
 
